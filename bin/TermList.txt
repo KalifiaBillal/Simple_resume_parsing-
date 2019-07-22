@@ -1,0 +1,9 @@
+python
+R
+latex
+Matlab
+computer science
+Angular
+mysql
+microsoft office
+Java
